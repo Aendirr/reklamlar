@@ -88,6 +88,30 @@
     <link rel="dns-prefetch" href="//www.google-analytics.com">
     <link rel="dns-prefetch" href="//fonts.googleapis.com">
     
+    <!-- Google Analytics 4 - BURAYA KENDİ KODUNUZU YAZIN -->
+    <!-- 
+    1. https://analytics.google.com adresine gidin
+    2. Property oluşturun: satalarsa.com
+    3. G-XXXXXXXXXX kodunuzu alın
+    4. Aşağıdaki iki yerde GA_MEASUREMENT_ID yerine yazın
+    -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=GA_MEASUREMENT_ID"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'GA_MEASUREMENT_ID');
+    </script>
+    
+    <!-- Google Search Console Verification - BURAYA KENDİ KODUNUZU YAZIN -->
+    <!-- 
+    1. https://search.google.com/search-console adresine gidin  
+    2. Domain: satalarsa.com ekleyin
+    3. Verification code alın
+    4. Aşağıda GOOGLE_VERIFICATION_CODE yerine yazın
+    -->
+    <meta name="google-site-verification" content="GOOGLE_VERIFICATION_CODE" />
+    
     <!-- Critical CSS inline for above-the-fold content -->
     <style>
       /* Critical Above-the-fold CSS */

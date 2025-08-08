@@ -25,6 +25,17 @@ function App() {
       <footer className="footer">
         <div className="container">
           <div className="footer-content">
+            <div className="social-share">
+              <h4>📱 Hızlı Paylaşım</h4>
+              <div className="share-buttons">
+                <a href="https://wa.me/?text=🏆%20Türkiye'nin%20%231%20Broker%20Uzmanı%20-%20https://satalarsa.com" target="_blank" className="share-btn whatsapp">
+                  📱 WhatsApp'ta Paylaş
+                </a>
+                <a href="https://t.me/share/url?url=https://satalarsa.com&text=🏆%20Sahibinden%20Satılık%20Ev,%20Araba,%20Arsa%20Broker%20Uzmanı" target="_blank" className="share-btn telegram">
+                  📬 Telegram'da Paylaş  
+                </a>
+              </div>
+            </div>
             <div className="footer-section">
               <h4>🏆 Sahibinden Satılık Ev, Araba, Arsa Uzmanı</h4>
               <p><strong>Sahibinden satılık ev</strong>, <strong>2. el araba</strong>, <strong>arsa yatırımı</strong> ve <strong>sahibinden tekne</strong> alım satımında Türkiye'nin #1 <strong>broker uzmanı</strong>. İstanbul, Ankara, İzmir'de güvenilir broker hizmetleri.</p>
