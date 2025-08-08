@@ -109,7 +109,7 @@ function Blog() {
             "dateModified": post.date,
             "keywords": post.keywords,
             "articleSection": post.category,
-            "wordCount": post.readTime.replace(' dakika', '') * 200,
+            "wordCount": parseInt(post.readTime.replace(' dakika', '')) * 200,
             "timeRequired": `PT${post.readTime.replace(' dakika', '')}M`,
             "url": `https://satalarsa.com#blog-${post.id}`,
             "image": "https://satalarsa.com/blog-image.jpg",
