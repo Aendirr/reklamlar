@@ -1,0 +1,40 @@
+# Robots.txt for Broker Pazarlama - Sahibinden Satılık Ev, Araba, Arsa Uzmanı
+
+User-agent: *
+Allow: /
+Allow: /assets/
+Allow: /*.css
+Allow: /*.js
+Allow: /*.png
+Allow: /*.jpg
+Allow: /*.jpeg
+Allow: /*.gif
+Allow: /*.webp
+Allow: /*.svg
+Allow: /*.ico
+
+# Özel bot'lar için ayrı ayarlar
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 1
+
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 2
+
+User-agent: Yandex
+Allow: /
+Crawl-delay: 2
+
+User-agent: facebookexternalhit
+Allow: /
+
+User-agent: Twitterbot
+Allow: /
+
+# Sitemap konumu
+Sitemap: https://satalarsa.com/sitemap.xml
+
+# Ek SEO direktifleri
+# Sahibinden satılık ev, araba, arsa kategorileri önemli
+# Priority: Ana sayfa > Kategoriler > Diğer sayfalar

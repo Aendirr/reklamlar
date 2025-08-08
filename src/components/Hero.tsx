@@ -3,12 +3,14 @@ function Hero() {
     <section className="hero">
       <div className="container hero-inner">
         <div className="hero-text">
-          <h1>Sahibinden Satılık Ev, Araba, Arsa | Güvenli Alım Satım</h1>
+          <h1>🏆 Sahibinden Satılık Ev, Araba, Arsa | Türkiye'nin #1 Broker Uzmanı | 2024</h1>
           <p>
-            <strong>2. el araba fiyatları</strong>, <strong>sahibinden ev</strong> ve <strong>arsa yatırımı</strong> 
-            konularında 15 yıllık deneyimli broker ekibimiz. Premium tekneler, lüks konutlar, 
-            prestijli araçlar ile <strong>güvenli alım satım</strong> garantisi. 
-            <strong>Yatırım danışmanlığı</strong> hizmetlerimizle portföyünüzü büyütün.
+            🔥 <strong>Sahibinden satılık ev</strong>, <strong>2. el araba fiyatları</strong>, <strong>arsa yatırımı</strong> 
+            ve <strong>sahibinden tekne</strong> alım satımında Türkiye'nin en güvenilir broker uzmanı! 
+            ⚡ <strong>Emlak broker</strong>, <strong>otomobil broker</strong> ve <strong>arsa broker</strong> 
+            hizmetlerimizle İstanbul, Ankara, İzmir'de <strong>güvenli alım satım</strong> garantisi. 
+            💰 <strong>Sahibinden.com</strong> alternatifi olarak %100 <strong>şeffaf komisyon</strong> 
+            ve <strong>hızlı satış</strong> garantisiyle <strong>yatırım danışmanlığı</strong> sunuyoruz.
           </p>
           <a href="#form" className="btn btn-primary">
             <span>🎯</span>
