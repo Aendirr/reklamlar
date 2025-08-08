@@ -1,0 +1,71 @@
+{
+  "name": "Sahibinden Satılık Ev, Araba, Arsa | #1 Broker Uzmanı",
+  "short_name": "Broker Uzmanı",
+  "description": "Türkiye'nin #1 sahibinden satılık ev, 2. el araba, arsa yatırımı uzmanı. Güvenli alım satım garantisi.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2563eb",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "lang": "tr",
+  "categories": ["business", "finance", "shopping"],
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "16x16 32x32",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.png", 
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/screenshot-mobile.png",
+      "sizes": "640x1136",
+      "type": "image/png",
+      "platform": "mobile",
+      "label": "Sahibinden Broker Mobil Görünüm"
+    },
+    {
+      "src": "/screenshot-desktop.png", 
+      "sizes": "1280x720",
+      "type": "image/png",
+      "platform": "wide",
+      "label": "Sahibinden Broker Desktop Görünüm"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Ücretsiz Değerlendirme",
+      "short_name": "Değerlendirme",
+      "description": "Emlak, araç, arsa için ücretsiz değerlendirme al",
+      "url": "/#form",
+      "icons": [{"src": "/icon-192.png", "sizes": "192x192"}]
+    },
+    {
+      "name": "Hizmetlerimiz",
+      "short_name": "Hizmetler", 
+      "description": "Sahibinden ev, araba, arsa broker hizmetleri",
+      "url": "/#alanlarimiz",
+      "icons": [{"src": "/icon-192.png", "sizes": "192x192"}]
+    },
+    {
+      "name": "Blog",
+      "short_name": "Blog",
+      "description": "Emlak ve otomobil piyasası analizleri",
+      "url": "/#blog", 
+      "icons": [{"src": "/icon-192.png", "sizes": "192x192"}]
+    }
+  ]
+}
