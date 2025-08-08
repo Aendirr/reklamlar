@@ -6,7 +6,7 @@ function Header() {
   return (
     <header className="header">
       <div className="container header-inner">
-        <a href="#" className="brand">Broker Pazarlama</a>
+        <a href="#" className="brand">Satalarsa</a>
         
         {/* Desktop Navigation */}
         <nav className="nav desktop-nav">

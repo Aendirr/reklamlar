@@ -60,7 +60,7 @@ function App() {
             </div>
           </div>
           <div className="footer-bottom">
-            <p>© {new Date().getFullYear()} Broker Pazarlama - Sahibinden Satılık Ev, Araba, Arsa | Güvenli Alım Satım Uzmanı. Tüm hakları saklıdır.</p>
+            <p>© {new Date().getFullYear()} Satalarsa - Sahibinden Satılık Ev, Araba, Arsa | Güvenli Alım Satım Uzmanı. Tüm hakları saklıdır.</p>
           </div>
         </div>
       </footer>

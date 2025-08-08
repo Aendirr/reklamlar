@@ -1,6 +1,6 @@
 {
   "name": "Sahibinden Satılık Ev, Araba, Arsa | #1 Broker Uzmanı",
-  "short_name": "Broker Uzmanı",
+  "short_name": "Satalarsa",
   "description": "Türkiye'nin #1 sahibinden satılık ev, 2. el araba, arsa yatırımı uzmanı. Güvenli alım satım garantisi.",
   "start_url": "/",
   "display": "standalone",
@@ -42,7 +42,7 @@
       "sizes": "1280x720",
       "type": "image/png",
       "platform": "wide",
-      "label": "Sahibinden Broker Desktop Görünüm"
+      "label": "Satalarsa Desktop Görünüm"
     }
   ],
   "shortcuts": [

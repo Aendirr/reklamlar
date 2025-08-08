@@ -94,7 +94,7 @@ function Blog() {
           "url": "https://satalarsa.com#blog",
           "publisher": {
             "@type": "Organization",
-            "name": "Broker Pazarlama",
+            "name": "Satalarsa",
             "url": "https://satalarsa.com"
           },
           "blogPost": BLOG_POSTS.map(post => ({
@@ -115,7 +115,7 @@ function Blog() {
             "image": "https://satalarsa.com/blog-image.jpg",
             "publisher": {
               "@type": "Organization", 
-              "name": "Broker Pazarlama",
+              "name": "Satalarsa",
               "url": "https://satalarsa.com"
             }
           }))
