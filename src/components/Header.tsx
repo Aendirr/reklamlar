@@ -6,7 +6,10 @@ function Header() {
   return (
     <header className="header">
       <div className="container header-inner">
-        <a href="#" className="brand">Satalarsa</a>
+        <a href="#" className="brand">
+          <img src="/logo.svg" alt="Satalarsa Logo" className="brand-logo" />
+          <span>Satalarsa</span>
+        </a>
         
         {/* Desktop Navigation */}
         <nav className="nav desktop-nav">

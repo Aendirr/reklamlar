@@ -52,7 +52,7 @@ function App() {
             </div>
             <div className="footer-section">
               <h4>📞 İletişim | Broker Uzmanı</h4>
-              <p>📞 <strong>+90 XXX XXX XX XX</strong></p>
+              <p>📞 <strong>+90 555 556 81 61</strong></p>
               <p>📧 <strong>info@satalarsa.com</strong></p>
               <p>🏢 <strong>İstanbul, Ankara, İzmir</strong></p>
               <p>⏰ <strong>7/24 Hizmet</strong></p>

@@ -1,11 +1,9 @@
-# Bu bir placeholder file'dır - Gerçek favicon için bir icon generator kullanmanız gerekiyor
-# Önerilen site: https://realfavicongenerator.net/
+# FAVICON - LOGO.SVG BAZLI
+# Logo.svg dosyasından üretilecek gerçek favicon
 # 
-# Broker temalı icon önerileri:
-# 🏠 - Ev simgesi (emlak için)
-# 🚗 - Araba simgesi (otomobil için) 
-# 📈 - Grafik simgesi (yatırım için)
-# 🏆 - Kupa simgesi (#1 broker için)
+# Satalarsa "S" logosu
+# Gradient: #e2e1ba → #fff8ea (Altın tonları)
+# Icon color: #acc6ca (Açık mavi-yeşil)
+# Stroke: #5aa3a6 (Koyu mavi-yeşil)
 #
-# Ana renk: #2563eb (mavi - güven verici)
-# İkinci renk: #dc2626 (kırmızı - dikkat çekici)
+# ✅ Realfavicongenerator.net'e logo.svg'yi upload edin

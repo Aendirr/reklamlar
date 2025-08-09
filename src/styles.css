@@ -80,10 +80,23 @@ body {
   font-size: 22px;
   transition: all 0.3s ease;
   letter-spacing: -0.5px;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.brand-logo {
+  width: 36px;
+  height: 36px;
+  transition: transform 0.3s ease;
 }
 
 .brand:hover {
   color: var(--primary);
+}
+
+.brand:hover .brand-logo {
+  transform: scale(1.1);
 }
 
 .nav {
