@@ -1,4 +1,4 @@
-# Broker Pazarlama Sitesi (React)
+# Broker Pazarlama Sitesi (React) !
 
 Beyaz temalı, Rubik yazı tipli basit bir tanıtım sitesi. En altta yer alan form ile bilgileri Google Sheets'e kaydeder.
 
@@ -100,4 +100,5 @@ VITE_SHEETS_ENDPOINT=WEB_UYGULAMASI_URLINIZ
 ## Özelleştirme
 - Yazı tipi: Rubik (14px taban). `index.html` ve `src/styles.css` üzerinden güncelleyebilirsiniz.
 - Renkler: `src/styles.css` içindeki CSS değişkenleri.
+
 - Sayfa bölümleri: `src/components/*` klasöründe.
