@@ -1,4 +1,4 @@
-# Broker Pazarlama Sitesi (React)
+# Broker Pazarlama Sitesi (React)!
 
 Beyaz temalı, Rubik yazı tipli basit bir tanıtım sitesi. En altta yer alan form ile bilgileri Google Sheets'e kaydeder.
 
